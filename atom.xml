@@ -290,13 +290,18 @@
     <link href="http://markweng.com/2015/10/05/Workspace%E3%80%81Project%E3%80%81Target-and-Scheme/"/>
     <id>http://markweng.com/2015/10/05/Workspace、Project、Target-and-Scheme/</id>
     <published>2015-10-05T14:10:39.000Z</published>
-    <updated>2017-01-17T09:05:13.000Z</updated>
+    <updated>2017-01-17T09:06:05.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Workspace、Project、Target-and-Scheme"><a href="#Workspace、Project、Target-and-Scheme" class="headerlink" title="Workspace、Project、Target and Scheme"></a>Workspace、Project、Target and Scheme</h1>]]></content>
+    <content type="html"><![CDATA[<p>####官方解释：<br><a href="https://developer.apple.com/library/content/featuredarticles/XcodeConcepts/Concept-Workspace.html#//apple_ref/doc/uid/TP40009328-CH7-SW1" target="_blank" rel="external">Xcode Workspace
+</a>  <a href="https://developer.apple.com/library/content/featuredarticles/XcodeConcepts/Concept-Projects.html#//apple_ref/doc/uid/TP40009328-CH5-SW1" target="_blank" rel="external">Xcode Project
+</a>  <a href="https://developer.apple.com/library/content/featuredarticles/XcodeConcepts/Concept-Targets.html#//apple_ref/doc/uid/TP40009328-CH4-SW1" target="_blank" rel="external">Xcode Target
+</a>   <a href="https://developer.apple.com/library/content/featuredarticles/XcodeConcepts/Concept-Schemes.html#//apple_ref/doc/uid/TP40009328-CH8-SW1" target="_blank" rel="external">Xcode Scheme
+</a></p>
+]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Workspace、Project、Target-and-Scheme&quot;&gt;&lt;a href=&quot;#Workspace、Project、Target-and-Scheme&quot; class=&quot;headerlink&quot; title=&quot;Workspace、Project、Targ
+      &lt;p&gt;####官方解释：&lt;br&gt;&lt;a href=&quot;https://developer.apple.com/library/content/featuredarticles/XcodeConcepts/Concept-Workspace.html#//apple_ref/doc/u
     
     </summary>
     
