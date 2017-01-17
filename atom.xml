@@ -290,7 +290,7 @@
     <link href="http://markweng.com/2015/10/05/Workspace%E3%80%81Project%E3%80%81Target-and-Scheme/"/>
     <id>http://markweng.com/2015/10/05/Workspace、Project、Target-and-Scheme/</id>
     <published>2015-10-05T14:10:39.000Z</published>
-    <updated>2017-01-17T09:15:28.000Z</updated>
+    <updated>2017-01-17T09:16:42.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="官方解释："><a href="#官方解释：" class="headerlink" title="官方解释："></a>官方解释：</h4><p><a href="https://developer.apple.com/library/content/featuredarticles/XcodeConcepts/Concept-Workspace.html#//apple_ref/doc/uid/TP40009328-CH7-SW1" target="_blank" rel="external">Xcode Workspace
 </a> | <a href="https://developer.apple.com/library/content/featuredarticles/XcodeConcepts/Concept-Projects.html#//apple_ref/doc/uid/TP40009328-CH5-SW1" target="_blank" rel="external">Xcode Project
@@ -298,7 +298,7 @@
 </a> |  <a href="https://developer.apple.com/library/content/featuredarticles/XcodeConcepts/Concept-Schemes.html#//apple_ref/doc/uid/TP40009328-CH8-SW1" target="_blank" rel="external">Xcode Scheme
 </a></p>
 <h4 id="Xcode-Workspace"><a href="#Xcode-Workspace" class="headerlink" title="Xcode Workspace"></a>Xcode Workspace</h4><p>如果你的开发过程中用到了Cocoapods，那么你就是已经用到了Workspace，因为你使用Cocoapods之后，你打开的那个文件就是 xxxx.xcworkspace。简单理解他就是一个Xcode文件，它包含了一个project组合，它们能够一起工作。</p>
-<h4 id="fhfh"><a href="#fhfh" class="headerlink" title="fhfh"></a>fhfh</h4>]]></content>
+<h4 id="Xcode-Project"><a href="#Xcode-Project" class="headerlink" title="Xcode Project"></a>Xcode Project</h4>]]></content>
     
     <summary type="html">
     
