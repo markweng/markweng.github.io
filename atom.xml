@@ -124,15 +124,24 @@
     <link href="http://markweng.com/2017/01/15/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     <id>http://markweng.com/2017/01/15/微信小程序/</id>
     <published>2017-01-15T05:37:53.000Z</published>
-    <updated>2017-01-15T05:39:00.000Z</updated>
+    <updated>2017-01-17T11:15:40.000Z</updated>
     
-    <content type="html"><![CDATA[<p>首先说的是配置文件app.json.下面是官方给出的例子.<br>{<br>“pages”: [ “pages/index/index”, “pages/logs/index” ],<br>“window”: { “navigationBarTitleText”: “Demo” },<br>“tabBar”: { “list”: [{ “pagePath”: “pages/index/index”, “text”: “首页” }, { “pagePath”: “pages/logs/logs”, “text”: “日志” }] },<br>“networkTimeout”: { “request”: 10000, “downloadFile”: 10000 },<br>“debug”: true<br>}<br>官方给出了app.json五个配置项列表.(pages(Array), window(Object), tabBar(Object), networkTimeout(Object), debug(Boolean)),接着我们就详细的分下一下这几个配置项.<br>pages</p>
+    <content type="html"><![CDATA[<p>首先说的是配置文件app.json.下面是官方给出的例子.</p>
+<pre><code>{&quot;pages&quot;: [ &quot;pages/index/index&quot;, &quot;pages/logs/index&quot; ],
+&quot;window&quot;: { &quot;navigationBarTitleText&quot;: &quot;Demo&quot; },
+&quot;tabBar&quot;: { &quot;list&quot;: [{ &quot;pagePath&quot;: &quot;pages/index/index&quot;, &quot;text&quot;: &quot;首页&quot; }, { &quot;pagePath&quot;: &quot;pages/logs/logs&quot;, &quot;text&quot;: &quot;日志&quot; }] }, 
+&quot;networkTimeout&quot;: { &quot;request&quot;: 10000, &quot;downloadFile&quot;: 10000 },
+&quot;debug&quot;: true
+}
+</code></pre><p>官方给出了app.json五个配置项列表.<br>(pages(Array), window(Object), tabBar(Object), networkTimeout(Object), debug(Boolean)),接着我们就详细的分下一下这几个配置项.<br>pages</p>
 <p>它的作用是配置小程序的页面,这个配置项是必填的,它接受一个数组,里面的每一项都是字符串,从上面给出的代码: “pages”: [ “pages/index/index”, “pages/logs/index” ] 可以看出,每一项分别对应的都是实现文件的路径以及他的文件名. 注意:这个配置里面的第一行配置是它的初始页面,例如上面代码的初始页面就是index</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;首先说的是配置文件app.json.下面是官方给出的例子.&lt;br&gt;{&lt;br&gt;“pages”: [ “pages/index/index”, “pages/logs/index” ],&lt;br&gt;“window”: { “navigationBarTitleText”: “Dem
+      &lt;p&gt;首先说的是配置文件app.json.下面是官方给出的例子.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{&amp;quot;pages&amp;quot;: [ &amp;quot;pages/index/index&amp;quot;, &amp;quot;pages/logs/index&amp;quot; ],
+&amp;quot;w
     
     </summary>
     
