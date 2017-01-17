@@ -290,12 +290,14 @@
     <link href="http://markweng.com/2014/08/20/%E5%88%9D%E8%AF%86swift/"/>
     <id>http://markweng.com/2014/08/20/初识swift/</id>
     <published>2014-08-20T12:41:40.000Z</published>
-    <updated>2017-01-17T04:02:56.000Z</updated>
+    <updated>2017-01-17T04:44:31.000Z</updated>
     
-    <content type="html"><![CDATA[<p>###逻辑</p>
+    <content type="html"><![CDATA[<p>##逻辑</p>
 <ul>
 <li>像许多最近的语言一样，Swift基于LLVM，编译到原生代码。它很可能相当快，并且可以产生许多不同目标平台的原生代码。这也包括内存使用和延迟仍然重要的客户端代码。</li>
-<li>在设计Swift时，『与Objective-C对象模型互操作的能力』似乎被作为一条硬约束。这可能会限制一些Swift所能安全完成的工作。<h2 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h2></li>
+<li>在设计Swift时，『与Objective-C对象模型互操作的能力』似乎被作为一条硬约束。这可能会限制一些Swift所能安全完成的工作。</li>
+</ul>
+<h2 id="特性"><a href="#特性" class="headerlink" title="特性"></a>特性</h2><ul>
 <li>没有显式指针(但是参看下文inout的部分），它依赖C#式的值/引用二分类型。这是在重获因为Java式全Heap式系统而损失的性能同时不引入学习和设计负担路上的半步。(备注：Java现在也在实验值类型)。 看上去是Swift和Rust最大的区别。这也意味着你不能轻易的取另一个结构体或数组内部的地址。这很令人遗憾，但是是合理的妥协。</li>
 <li>既然没有指针，自然没有真正的机制来推断所有权。当你使用引用类型的时候，它不过是一个指向共享堆的ARC指针或弱指针。Region，Unique性(Uniqueness)以及所有相关的性能增强与认知负担都不存在。</li>
 <li>单继承，显式覆盖(override)和属性(properties)，以及多接口(“protocol”)继承。这是今天的标准，非常C#式的设计，看上去protocol不可以拥有默认方法。class是引用类型，structs是值类型。</li>
@@ -305,7 +307,10 @@
 <li>脚本语言式（以及Go语言式）的词典(dictionary)字面量。小事，但是会很受欢迎。</li>
 <li>一个基本的模块系统，没有通配符，成组import或重命名。没有可见性控制。但是通过attributes支持了重新导出。</li>
 <li>没有macro系统没有满地的null，谢天谢地。相反，引入了C#和Facebook最近的Hack语言中的option类型和nullable语法糖，包括相当多的可选链式调用，强制和绑定，这很棒。</li>
-<li>let和var关键字，用以区分可变(mutable)和不可变(immutable)对象。<br>##奇怪的(Peculiarites)</li>
+<li>let和var关键字，用以区分可变(mutable)和不可变(immutable)对象。</li>
+</ul>
+<p>##奇怪的(Peculiarites)</p>
+<ul>
 <li>数组有奇怪的copy-on-extension语义，但是我觉得它们可能总在堆上？字符串看上去也是基于堆和Copy-on-Write的。不太清楚。</li>
 <li>不清楚你自己是否或如何能实现iterator protocol.</li>
 <li>参数可以是inout的，这样的参数看上去不可避免的要求一元&amp;运算符。有意思的是，像Objective-C一样，inout关键字拒绝死去。在Rust当中，在我们发展出first class region pointer(“lifetime”)系统之前，我们也干了类似的事（”parameter modes”)。参数传递模式和真正指针之间的不对称最终让我们无法忍受，不过我猜Swift不觉得这是啥大问题。</li>
@@ -318,10 +323,10 @@
     
     <summary type="html">
     
-      &lt;p&gt;###逻辑&lt;/p&gt;
+      &lt;p&gt;##逻辑&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;像许多最近的语言一样，Swift基于LLVM，编译到原生代码。它很可能相当快，并且可以产生许多不同目标平台的原生代码。这也包括内存使用和延迟仍然重要的客户端代码。&lt;/li&gt;
-&lt;li&gt;在设计Swift时，『与Objective-C对象模型
+&lt;li&gt;在设计Swift时，『与Objective-C对象模型互
     
     </summary>
     
