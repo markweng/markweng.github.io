@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://markweng.com/"/>
-  <updated>2017-02-20T08:04:30.000Z</updated>
+  <updated>2017-01-16T03:12:47.000Z</updated>
   <id>http://markweng.com/</id>
   
   <author>
@@ -14,116 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>个人简历</title>
-    <link href="http://markweng.com/2017/02/20/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/"/>
-    <id>http://markweng.com/2017/02/20/个人简历/</id>
-    <published>2017-02-20T08:04:04.000Z</published>
-    <updated>2017-02-20T08:04:30.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="开发任务"><a href="#开发任务" class="headerlink" title="开发任务"></a>开发任务</h1><h2 id="先讲讲怎样才是一份好的技术简历"><a href="#先讲讲怎样才是一份好的技术简历" class="headerlink" title="先讲讲怎样才是一份好的技术简历"></a>先讲讲怎样才是一份好的技术简历</h2><p>首先，一份好的简历不光说明事实，更通过FAB模式来增强其说服力。</p>
-<ul>
-<li>Feature：是什么</li>
-<li>Advantage：比别人好在哪些地方</li>
-<li>Benefit：如果雇佣你，招聘方会得到什么好处 </li>
-</ul>
-<p>其次，写简历和写议论文不同，过分的论证会显得自夸，反而容易引起反感，所以要点到为止。这里的技巧是，提供论据，把论点留给阅读简历的人自己去得出。放论据要具体，最基本的是要数字化，好的论据要让人印象深刻。</p>
-<p>举个例子，下边内容是虚构的：</p>
-<p>2006年，我参与了手机XX网发布系统WAPCMS的开发（<code>这部分是大家都会写的</code>）。作为核心程序员，我不但完成了网站界面、调度队列的开发工作，更提出了高效的组件级缓存系统，通过碎片化缓冲有效的提升了系统的渲染效率。（<code>这部分是很多同学忘掉的，要写出你在这个项目中具体负责的部分，以及你贡献出来的价值。</code>）在该系统上线后，Web前端性能从10QPS提升到200QPS，服务器由10台减少到3台（<code>通过量化的数字来增强可信度</code>）。2008年我升任WAPCMS项目负责人，带领一个3人小组支持着每天超过2亿的PV（<code>这就是Benefit。你能带给前雇主的价值，也就是你能带给新雇主的价值。</code>）。</p>
-<p>有同学问，如果我在项目里边没有那么显赫的成绩可以说怎么办？讲不出成绩时，就讲你的成长。因为学习能力也是每家公司都看中的东西。你可以写你在这个项目里边遇到了一个什么样的问题，别人怎么解决的，你怎么解决的，你的方案好在什么地方，最终这个方案的效果如何。</p>
-<p>具体、量化、有说服力，是技术简历特别需要注重的地方。</p>
-<p>（以上内容在写完简历后，对每一段进行评估，完成后再删除）</p>
-<hr>
-<h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul>
-<li>手机：  18698589213 </li>
-<li>Email：dvweng@163.com </li>
-<li>微信：  cz85963921</li>
-</ul>
-<hr>
-<h1 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h1><ul>
-<li>翁成/男/1992 </li>
-<li>本科/河南理工大学/软件工程 </li>
-<li>工作年限：3年</li>
-<li>技术博客：<a href="https://www.markweng.space" target="_blank" rel="external">https://www.markweng.space</a> </li>
-<li>Github: <a href="https://github.com/markweng" target="_blank" rel="external">https://github.com/markweng</a> </li>
-<li>期望职位：iOS开发工程师</li>
-<li>期望薪资：税前月薪12k~14k，特别喜欢的公司可例外</li>
-<li>期望城市：杭州</li>
-</ul>
-<hr>
-<h1 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h1><h2 id="杭州智学教育科技有限公司-（-2016年3月-至今-）"><a href="#杭州智学教育科技有限公司-（-2016年3月-至今-）" class="headerlink" title="杭州智学教育科技有限公司 （ 2016年3月 ~ 至今 ）"></a>杭州智学教育科技有限公司 （ 2016年3月 ~ 至今 ）</h2><p>职责 :负责“智学教育老师端”、“智学教育家长端”及“智学幼教老师”APP在iOS平台下的开发，根据市场和产品需求，完成开发。作为核心开发人员，我不仅完成了相应功能模块的编码，而且对代码进行了封装，在入职一个月之后iOS进度一直优先于Andriod进度，在试用期获得了提前转正的资格。在入职半年时为公司招了一位实习生，并带领熟悉业务直到转正。</p>
-<h3 id="智学教育老师端"><a href="#智学教育老师端" class="headerlink" title="智学教育老师端"></a>智学教育老师端</h3><p>项目职责：我在此项目负责了各功能模块的开发、JPush集成、环信im集成、类似支付宝的应用管理、朋友圈等。在该项目中数据请求使用AFNetworking,解析使用JSONModel,界面绘制使用代码+XIB快速完成开发。并对AFN根据公司接口进行二次封装，使用更加方便。</p>
-<p>####主要技术有： </p>
-<ul>
-<li>集成环信SDK，实现即时通讯功能；</li>
-<li>集成极光推送SDK，实现通知公告、请假的推送；</li>
-<li>集成友盟统计，实现应用的统计分析；</li>
-<li>对AFN根据公司接口进行二次封装，方便使用；</li>
-<li>应用管理CollectionView的拖动排序等；</li>
-<li>程序内功能红点提示。</li>
-</ul>
-<h3 id="智学幼教老师"><a href="#智学幼教老师" class="headerlink" title="智学幼教老师"></a>智学幼教老师</h3><p>项目职责：框架的搭建及优化，第三方升级维护，测试发布。此APP因为和公司其他APP需求大同小异，所以大致框架一样，做了几点优化：<br> • 根据推送目的跳转到指定功能界面；<br> • 首页红点在点击tabbar时请求，并实现规定时间内单次请求；<br> • 推送通知栏通过别名显示对应发送人名，提高用户体验。</p>
-<h3 id="智学教育家长端"><a href="#智学教育家长端" class="headerlink" title="智学教育家长端"></a>智学教育家长端</h3><p>我在此项目负责了学生定位卡功能的开发，使用了高德地图SDK,能通过卡片获取学生位置信息，设置电子围栏控制活动范围，历史轨迹获取学生活动轨迹等等。</p>
-<p>####主要功能有：</p>
-<ul>
-<li>即时通讯、推送、地图、朋友圈；</li>
-<li>该项目使用sliderView解析返回数据显示页面或者标注地图；</li>
-<li>使用高德地图SDK实现位置的标注、定位、历史轨迹等功能。</li>
-</ul>
-<h2 id="两鲜商贸-上海-有限公司-（-2014年2月-2016年3月-）"><a href="#两鲜商贸-上海-有限公司-（-2014年2月-2016年3月-）" class="headerlink" title="两鲜商贸(上海)有限公司 （ 2014年2月 ~ 2016年3月 ）"></a>两鲜商贸(上海)有限公司 （ 2014年2月 ~ 2016年3月 ）</h2><p>职责 :参与“两鲜”APP的开发，根据开发文档进行项目开发。</p>
-<h3 id="两鲜"><a href="#两鲜" class="headerlink" title="两鲜"></a>两鲜</h3><p>项目职责：根据开发文档进行模块的开发。</p>
-<p>####主要技术有： </p>
-<ul>
-<li>OC和JS交互。 </li>
-<li>定位获取当前所在城市；</li>
-<li>使用NSRunloop解决ScrollView滚动时NSTimer失效问题 。 </li>
-<li>第三方登录与支付。</li>
-</ul>
-<h3 id="时光旅行（个人项目）"><a href="#时光旅行（个人项目）" class="headerlink" title="时光旅行（个人项目）"></a>时光旅行（个人项目）</h3><p>自己闲时做的一个小应用，</p>
-<hr>
-<h1 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a>技能清单</h1><p>（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）</p>
-<p>以下均为我熟练使用的技能</p>
-<ul>
-<li>iOS开发：C/OC/swift/JS</li>
-<li>设计模式：MVC/MVVM/通知/代理/工厂模式/KVO/KVC</li>
-<li>数据库相关：SQLite/FMDB/CoreData</li>
-<li>版本管理、文档和自动化部署工具：Svn/Git</li>
-<li>APP打包上传和审核：Apple Developer网站/Itunes Connect网站/IPA/自动打包脚本</li>
-<li>应用分发：蒲公英/Fir/Pre</li>
-<li>统计分析：友盟/Google Analytics/Bugly</li>
-<li>包管理：CocoaPods/Carthage</li>
-<li>开源项目：AFNetworkng&amp;Alamofire/SDWebimage/Masonry/JSONModel/SwiftJSON/JSPatch</li>
-<li>调试工具：Charles,Wireshark/Reveal/Instruments</li>
-<li>云和开放平台：七牛/搬瓦工/微博开放平台/微信开放平台/腾讯开放平台</li>
-</ul>
-<h2 id="参考技能关键字"><a href="#参考技能关键字" class="headerlink" title="参考技能关键字"></a>参考技能关键字</h2><p>本技能关键字列表是从最近招聘PHP的数百份JD中统计出来的，括号中是出现的词频。如果你的简历要投递给有机器（简历分选系统）和不如机器（不懂技术的HR）筛选简历环节的地方，请一定从下边高频关键词中选择5～10个适合你自己的。</p>
-<ul>
-<li>iOS(1383)</li>
-<li>iphone(312)</li>
-<li>objective c(286)</li>
-<li>app(276)</li>
-<li>sdk(205)</li>
-<li>xcode(196)</li>
-<li>json(51)</li>
-<li>appstore(49)</li>
-<li>instruments(22)</li>
-<li>github(22)</li>
-<li>mvc(20)</li>
-<li>im(18)</li>
-</ul>
-<hr>
-<h1 id="致谢"><a href="#致谢" class="headerlink" title="致谢"></a>致谢</h1><p>感谢您花时间阅读我的简历，期待能有机会和您共事。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;开发任务&quot;&gt;&lt;a href=&quot;#开发任务&quot; class=&quot;headerlink&quot; title=&quot;开发任务&quot;&gt;&lt;/a&gt;开发任务&lt;/h1&gt;&lt;h2 id=&quot;先讲讲怎样才是一份好的技术简历&quot;&gt;&lt;a href=&quot;#先讲讲怎样才是一份好的技术简历&quot; class=&quot;header
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Dream It Possible</title>
