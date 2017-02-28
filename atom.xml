@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://markweng.com/"/>
-  <updated>2017-01-16T03:12:47.000Z</updated>
+  <updated>2017-01-17T11:15:40.000Z</updated>
   <id>http://markweng.com/</id>
   
   <author>
@@ -14,110 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Dream It Possible</title>
-    <link href="http://markweng.com/2017/01/16/Dream-It-Possible/"/>
-    <id>http://markweng.com/2017/01/16/Dream-It-Possible/</id>
-    <published>2017-01-16T03:03:38.000Z</published>
-    <updated>2017-01-16T03:12:47.000Z</updated>
-    
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=38592976&auto=0&height=66"></iframe>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=
-    
-    </summary>
-    
-    
-      <category term="Dream It Possible" scheme="http://markweng.com/tags/Dream-It-Possible/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>markdown 语法</title>
-    <link href="http://markweng.com/2017/01/15/markdown%E8%AF%AD%E6%B3%95/"/>
-    <id>http://markweng.com/2017/01/15/markdown语法/</id>
-    <published>2017-01-15T05:50:02.000Z</published>
-    <updated>2017-01-16T06:48:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<h4 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h4><p><img src="http://ojuqf49p9.bkt.clouddn.com/14203184_243794276020984_7276246916927508853_n.jpg" alt="谁来陪我说说话"></p>
-<p><img src="http://ojuqf49p9.bkt.clouddn.com/A9BCF69DB45955B9C40E933B6062ED09.jpg" alt="🙄🙄"></p>
-<h4 id="插入链接"><a href="#插入链接" class="headerlink" title="插入链接"></a>插入链接</h4><p><a href="www.baidu.com">baidu</a><br><a href="www.google.com">google</a></p>
-<h4 id="插入代码"><a href="#插入代码" class="headerlink" title="插入代码"></a>插入代码</h4><figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="title">NSLog</span><span class="params">(@<span class="string">"welocme!"</span>)</span></span></div></pre></td></tr></table></figure>
-<h4 id="插入表格"><a href="#插入表格" class="headerlink" title="插入表格"></a>插入表格</h4><table>
-<thead>
-<tr>
-<th>Option name</th>
-<th>Markup</th>
-<th>Result if enabled</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Intra-word emphasis</td>
-<td>So A*maz*ing</td>
-<td>So A<em>maz</em>ing</td>
-<td></td>
-</tr>
-<tr>
-<td>Strikethrough</td>
-<td>~~Much wow~~</td>
-<td><del>Much wow</del></td>
-<td></td>
-</tr>
-<tr>
-<td>Underline [^under]</td>
-<td>_So doge_</td>
-<td><u>So doge</u></td>
-<td></td>
-</tr>
-<tr>
-<td>Quote [^quote]</td>
-<td>\”Such editor\”</td>
-<td><q>Such editor</q></td>
-<td></td>
-</tr>
-<tr>
-<td>Highlight</td>
-<td>\==So good\==</td>
-<td><mark>So good</mark></td>
-<td></td>
-</tr>
-<tr>
-<td>Superscript</td>
-<td>hoge\^(fuga)</td>
-<td>hoge<sup>fuga</sup></td>
-<td></td>
-</tr>
-<tr>
-<td>Autolink</td>
-<td><a href="http://t.co" target="_blank" rel="external">http://t.co</a></td>
-<td><a href="http://t.co" target="_blank" rel="external">http://t.co</a></td>
-<td></td>
-</tr>
-<tr>
-<td>Footnotes</td>
-<td>[\^4] and [\^4]:</td>
-<td>[^4] and footnote 4</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h4 id=&quot;插入图片&quot;&gt;&lt;a href=&quot;#插入图片&quot; class=&quot;headerlink&quot; title=&quot;插入图片&quot;&gt;&lt;/a&gt;插入图片&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;http://ojuqf49p9.bkt.clouddn.com/14203184_2437942760
-    
-    </summary>
-    
-    
-      <category term="test_image" scheme="http://markweng.com/tags/test-image/"/>
-    
-  </entry>
   
   <entry>
     <title>微信小程序</title>
@@ -203,36 +99,6 @@
     
     
       <category term="打包脚本" scheme="http://markweng.com/tags/%E6%89%93%E5%8C%85%E8%84%9A%E6%9C%AC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>初学swift</title>
-    <link href="http://markweng.com/2016/01/10/%E5%88%9D%E5%AD%A6swift/"/>
-    <id>http://markweng.com/2016/01/10/初学swift/</id>
-    <published>2016-01-10T10:02:34.000Z</published>
-    <updated>2017-01-14T10:02:56.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hadoop简介</title>
-    <link href="http://markweng.com/2015/12/09/Hadoop%E7%AE%80%E4%BB%8B/"/>
-    <id>http://markweng.com/2015/12/09/Hadoop简介/</id>
-    <published>2015-12-09T09:45:41.000Z</published>
-    <updated>2017-01-14T09:47:39.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="Hadoop" scheme="http://markweng.com/tags/Hadoop/"/>
     
   </entry>
   
@@ -324,20 +190,6 @@
     
     
       <category term="配置ssh" scheme="http://markweng.com/tags/%E9%85%8D%E7%BD%AEssh/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>java基础</title>
-    <link href="http://markweng.com/2013/10/13/java%E5%9F%BA%E7%A1%80/"/>
-    <id>http://markweng.com/2013/10/13/java基础/</id>
-    <published>2013-10-13T14:31:09.000Z</published>
-    <updated>2017-01-14T10:04:52.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
     
   </entry>
   
